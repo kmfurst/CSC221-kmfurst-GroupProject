@@ -1,101 +1,69 @@
-Book,Author,Original Language,First Published,Approximate Sales,Genre
-The Hunger Games,Suzanne Collins,English,2008,29 million in US,"Young adult fiction
-"
-James and the Giant Peach,Roald Dahl,English,1961,28 million,Children's literature
-The Young Guard,Alexander Alexandrovich Fadeyev,Russian,1945,26 million copies in USSR,"
-"
-Who Moved My Cheese?,Spencer Johnson,English,1998,26 million,"
-"
-A Brief History of Time,Stephen Hawking,English,1988,25 million,"Popular science
-"
-Paul et Virginie,Jacques-Henri Bernardin de Saint-Pierre,French,1788,25 million,"
-"
-Lust for Life,Irving Stone,English,1934,25 million,"
-"
-The Wind in the Willows,Kenneth Grahame,English,1908,25 million,Children's literature
-The 7 Habits of Highly Effective People,Stephen R. Covey,English,1989,25 million,"
-"
-Virgin Soil Upturned,Mikhail Sholokhov,Russian,1935,24 million copies in USSR,"
-"
-The Celestine Prophecy,James Redfield,English,1993,23 million,"
-"
-The Fault in Our Stars,John Green,English,2012,23 million,"
-"
-The Girl on the Train,Paula Hawkins,"English
-","2015
-",23 million,"
-"
-The Shack,William P. Young,English,2007,22 million,"
-"
-Uncle Styopa,Sergey Mikhalkov,Russian,1936,21 million copies in USSR,"
-"
-The Godfather,Mario Puzo,English,1969,21 million,"
-"
-Love Story,Erich Segal,"English
-","1970
-",21 million,"
-"
-Catching Fire,Suzanne Collins,English,2009,21 million in US,"
-"
-Mockingjay,Suzanne Collins,English,2010,20 million in US,"
-"
-Kitchen,Banana Yoshimoto,Japanese,1988,20 million ,"
-"
-Andromeda Nebula,Ivan Yefremov,Russian,1957,20 million,"
-"
-Autobiography of a Yogi,Paramahansa Yogananda,Hindi,1946,20 million,"
-"
-Gone Girl,Gillian Flynn,"English
-","2012
-",20 million,"
-"
-All Quiet on the Western Front,Erich Maria Remarque,"German
-","1929
-",20 million,"
-"
-The Bermuda Triangle,Charles Berlitz,English,1974,20 million,"
-"
-Things Fall Apart,Chinua Achebe,English,1958,20 million,"
-"
-Animal Farm,George Orwell,English,1945,20 million,"
-"
-Wolf Totem,Jiang Rong,Chinese,2004,20 million,"
-"
-The Happy Hooker: My Own Story,Xaviera Hollander,English,1971,20 million,"
-"
-Jaws,Peter Benchley,English,1974,20 million,"
-"
-Love You Forever,Robert Munsch,English,1986,20 million,"
-"
-The Women's Room,Marilyn French,English,1977,20 million,"
-"
-What to Expect When You're Expecting,Arlene Eisenberg,English,1984,20 million,"
-"
-Adventures of Huckleberry Finn,Mark Twain,English,1885,20 million,"
-"
-"The Secret Diary of Adrian Mole, Aged 13¾",Sue Townsend,English,1982,20 million,"
-"
-Pride and Prejudice,Jane Austen,English,1813,20 million,"
-"
-Kon-Tiki: Across the Pacific in a Raft,Thor Heyerdahl,Norwegian,1950,20 million,"
-"
-The Good Soldier Švejk,Jaroslav Hašek,Czech,1923,20 million (printed),"
-"
-Where the Wild Things Are,Maurice Sendak,English,1963,20 million,"
-"
-The Power of Positive Thinking,Norman Vincent Peale,English,1952,20 million,"
-"
-The Secret,Rhonda Byrne,English,2006,20 million,"
-"
-Fear of Flying,Erica Jong,English,1973,20 million,"
-"
-Dune,Frank Herbert,English,1965,20 million,"
-"
-Charlie and the Chocolate Factory,Roald Dahl,"English
-","1964
-",20 million,"
-"
-The Naked Ape,Desmond Morris,"English
-","1968
-",20 million,"
-"
+Book,Author,Original Language,First Published,Approximate Sales
+"Totto-chan, the Little Girl at the Window",Tetsuko Kuroyanagi,Japanese,1981,18 million (in Japan and China)
+Matilda,Roald Dahl,English,1988,17 million 
+The Book Thief,Markus Zusak,English,2005,16 million 
+The Horse Whisperer,Nicholas Evans,English,1995,16 million
+Goodnight Moon,Margaret Wise Brown,English,1947,16 million
+The Neverending Story,Michael Ende,German,1979,16 million
+Fifty Shades of Grey,E. L. James,English,2011,15.2 million in U.S.
+The Outsiders,S. E. Hinton,"English
+","1967
+",15 million
+Guess How Much I Love You,Sam McBratney,English,1994,15 million
+Shōgun,James Clavell,English,1975,15 million
+The Poky Little Puppy,Janette Sebring Lowrey,English,1942,15 million
+The Pillars of the Earth,Ken Follett,English,1989,15 million
+Perfume,Patrick Süskind,German,1985,15 million
+The Grapes of Wrath,John Steinbeck,English,1939,15 million
+The Shadow of the Wind,Carlos Ruiz Zafón,Spanish,2001,15 million
+Interpreter of Maladies,Jhumpa Lahiri,English,2000,15 million
+Becoming,Michelle Obama,English,2018,14 million
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,English,1979,14 million
+Tuesdays with Morrie,Mitch Albom,English,1997,14 million
+God's Little Acre,Erskine Caldwell,English,1933,14 million
+Follow Your Heart,Susanna Tamaro,Italian,1994,14 million
+A Wrinkle in Time,Madeleine L'Engle,English,1962,14 million
+Long Walk to Freedom,Nelson Mandela,English,1994,14 million
+The Old Man and the Sea,Ernest Hemingway,English,1952,13 million
+Life After Life,Raymond Moody,English,1975,13 million
+Me Before You,Jojo Moyes,English,2012,12 million
+Norwegian Wood,Haruki Murakami,Japanese,1987,12 million
+Peyton Place,Grace Metalious,English,1956,12.1 million
+The Plague,Albert Camus,French,1947,12 million
+No Longer Human,Osamu Dazai,Japanese,1948,12 million
+Man's Search for Meaning,Viktor Frankl,German,1946,12 million
+The Divine Comedy,Dante Alighieri,Italian,1304,11–12 million (during 20th century)
+The Prophet,Kahlil Gibran,English,1923,11 million
+The Exorcist,William Peter Blatty,English,1971,11 million
+The Gruffalo,Julia Donaldson,English,1999,10.5 million
+Fifty Shades Darker,E. L. James,English,2012,10.4 million in U.S.
+"Ronia, the Robber's Daughter",Astrid Lindgren,Swedish,1981,10 million 
+The Cat in the Hat,Dr. Seuss,English,1957,10.5 million
+Diana: Her True Story,Andrew Morton,English,1992,10 million
+The Help,Kathryn Stockett,English,2009,10 million
+Catch-22,Joseph Heller,English,1961,10 million
+The Stranger,Albert Camus,French,1942,10 million
+Eye of the Needle,Ken Follett,English,1978,10 million
+The Lovely Bones,Alice Sebold,English,2002,10 million
+Wild Swans,Jung Chang,English,1992,10 million
+Santa Evita,Tomás Eloy Martínez,Spanish,1995,10 million
+Night,Elie Wiesel,Yiddish,1958,10 million
+Confucius from the Heart,Yu Dan,Chinese,2006,10 million
+The Total Woman,Marabel Morgan,English,1974,10 million
+Knowledge-value Revolution,Taichi Sakaiya,Japanese,1985,10 million
+Problems in China's Socialist Economy,Xue Muqiao,Chinese,1979,10 million
+What Color Is Your Parachute?,Richard Nelson Bolles,English,1970,10 million
+The Dukan Diet,Pierre Dukan,French,2000,10 million
+The Joy of Sex,Alex Comfort,English,1972,10 million
+The Gospel According to Peanuts,Robert L. Short,English,1965,10 million
+The Subtle Art of Not Giving a Fuck,Mark Manson,"English
+","2016
+",10 million
+Life of Pi,Yann Martel,English,2001,10 million
+The Giver,Lois Lowry,English,1993,10 million
+The Front Runner,Patricia Nell Warren,English,1974,10 million
+The Goal,Eliyahu M. Goldratt,English,1984,10 million
+Fahrenheit 451,Ray Bradbury,English,1953,10 million
+Angela's Ashes,Frank McCourt,English,1996,10 million
+The Story of My Experiments with Truth,Mohandas Karamchand Gandhi,Gujarati,1925-1929,10 million
+Bridget Jones's Diary,Helen Fielding,English,1996,10 million (as of 2005)
