@@ -7,6 +7,6 @@ __Project Description:__  Screen scraping project repository to gather data abou
 
 __Webscraped URL:__  Wiki List of Best Selling Books:  https://en.wikipedia.org/wiki/List_of_best-selling_books
 
-__Collaborator:__  Alexander Freeman (aefreeman@my.waketech.edu)
+__Collaborator:__  Alexander Freeman (aefreeman@my.waketech.edu) ACCEPTED
 
 
